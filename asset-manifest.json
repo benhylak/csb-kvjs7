@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://bhylak.github.io/csb-kvjs7/static/css/main.feed1e90.chunk.css",
-    "main.js": "https://bhylak.github.io/csb-kvjs7/static/js/main.4747e413.chunk.js",
-    "main.js.map": "https://bhylak.github.io/csb-kvjs7/static/js/main.4747e413.chunk.js.map",
+    "main.css": "https://bhylak.github.io/csb-kvjs7/static/css/main.54ea9af6.chunk.css",
+    "main.js": "https://bhylak.github.io/csb-kvjs7/static/js/main.a4b0c894.chunk.js",
+    "main.js.map": "https://bhylak.github.io/csb-kvjs7/static/js/main.a4b0c894.chunk.js.map",
     "runtime-main.js": "https://bhylak.github.io/csb-kvjs7/static/js/runtime-main.e368e40b.js",
     "runtime-main.js.map": "https://bhylak.github.io/csb-kvjs7/static/js/runtime-main.e368e40b.js.map",
     "static/js/2.b4cae91c.chunk.js": "https://bhylak.github.io/csb-kvjs7/static/js/2.b4cae91c.chunk.js",
     "static/js/2.b4cae91c.chunk.js.map": "https://bhylak.github.io/csb-kvjs7/static/js/2.b4cae91c.chunk.js.map",
     "index.html": "https://bhylak.github.io/csb-kvjs7/index.html",
-    "static/css/main.feed1e90.chunk.css.map": "https://bhylak.github.io/csb-kvjs7/static/css/main.feed1e90.chunk.css.map",
+    "static/css/main.54ea9af6.chunk.css.map": "https://bhylak.github.io/csb-kvjs7/static/css/main.54ea9af6.chunk.css.map",
     "static/js/2.b4cae91c.chunk.js.LICENSE.txt": "https://bhylak.github.io/csb-kvjs7/static/js/2.b4cae91c.chunk.js.LICENSE.txt",
     "static/media/styles.css": "https://bhylak.github.io/csb-kvjs7/static/media/dontTell.6ad84927.otf",
     "static/media/logo.6b347c7c.png": "https://bhylak.github.io/csb-kvjs7/static/media/logo.6b347c7c.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.e368e40b.js",
     "static/js/2.b4cae91c.chunk.js",
-    "static/css/main.feed1e90.chunk.css",
-    "static/js/main.4747e413.chunk.js"
+    "static/css/main.54ea9af6.chunk.css",
+    "static/js/main.a4b0c894.chunk.js"
   ]
 }
